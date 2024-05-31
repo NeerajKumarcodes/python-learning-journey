@@ -1,7 +1,6 @@
 x = 10
 y = 12.4
 z = 18j
-w = "Hello, World!"
 
 #numbers
 #converting numbers
