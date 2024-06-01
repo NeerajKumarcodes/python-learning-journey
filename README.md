@@ -18,7 +18,11 @@ Python-Learning-Journey/
 ├── Introduction/
 │ ├── Hello World.py
 │ ├── Data Types.py
-│ └── More Print.py
+│ ├── More Print.py
+│ ├── Numbers.py
+│ ├── String.py
+│ ├── Boolean.py
+│ └── List.py
 ├── Intermediate/
 │ ├── functions.py
 │ ├── modules_and_packages.py
