@@ -20,9 +20,11 @@ Python-Learning-Journey/
 │ ├── Data Types.py
 │ ├── More Print.py
 │ ├── Numbers.py
-│ ├── String.py
+│ ├── Strings.py
 │ ├── Boolean.py
-│ └── List.py
+│ ├── List.py
+│ ├── Tuple.py
+│ └── Set.py
 ├── Intermediate/
 │ ├── functions.py
 │ ├── modules_and_packages.py
